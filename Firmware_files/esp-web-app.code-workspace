@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "D:/esp-web-app"
+		},
+		{
+			"name": "ESP_32_wifi",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
