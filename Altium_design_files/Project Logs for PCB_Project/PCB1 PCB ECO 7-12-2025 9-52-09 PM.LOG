@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=U2 Old Footprint=IC_CP2102N-A02-GQFN28R New Footprint=QFN50P500X500X80-29N
+Change Component Comment : Designator=U2 Old Comment=CP2102N-A02-GQFN28R New Comment=CP2102N-A02-GQFN28
+Change component parameters: Designator = "U2" ("U2"); Footprint = "IC_CP2102N-A02-GQFN28R"; UniqueID = "\PETODRXF" ("\PETODRXF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CP2102N-A02-GQFN28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "WFQFN-28 Silicon Labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CP2102N-A02-GQFN28/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U2-8
+Added Net: Name=NetR12_2

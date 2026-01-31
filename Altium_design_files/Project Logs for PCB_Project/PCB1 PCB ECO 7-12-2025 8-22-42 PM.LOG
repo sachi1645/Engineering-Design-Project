@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Class Member: Failed to add class member : Component U1 AMS1117-3.3
