@@ -58,7 +58,7 @@ The system consists of two main parts:
 ## 👥 Team: Group Debuggers
 * **Manitha Ayanaja** - Firmware, Web App, PCB
 * **Sachinthaka Dilhara** - PCB Design
-* **Kaveesha Divyanga** - Enclosure Design
+* **Kaveesha Divyanga** - Enclosure Design(https://github.com/KaveeDiv23)
 * **Mishen Janodya** - PCB Design
 
 ## 📄 License
